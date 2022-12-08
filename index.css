@@ -1,0 +1,156 @@
+body {
+    /* font-family: 'Satisfy', cursive; */
+
+    /* font-family: 'Pacifico', cursive; */
+    /* background-image: url(img/background.jpg); */
+    background-color: rgb(235, 194, 194);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.container-fluid {
+    background-color: rgb(235, 194, 194);
+    word-spacing: 3px;
+    text-align: center;
+
+}
+
+.am a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 25px;
+}
+
+.am {
+    word-spacing: 25px;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    font-size: 60px;
+    color: black;
+}
+
+.card img {
+    border-radius: 25px;
+    background-size: cover;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+    color: black;
+}
+
+.col {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    margin: 15px;
+    width: 30%;
+    border-radius: 20px;
+    margin-bottom: 30px;
+    background-color: none;
+}
+
+.card-body {
+    box-shadow: rgb(226, 237, 247) 3px 3px 6px 0px inset, rgba(211, 195, 195, 0.5) -3px -3px 6px 1px inset;
+    text-align: center;
+    border-radius: 30px;
+   background-color: rgb(235, 194, 194);
+ 
+   
+}
+
+.card {
+   background-color: none;
+    border-radius: 30px;
+}
+
+.am6 {
+    width: 49%;
+    float: left;
+    height: 600px;
+}
+
+.am7 {
+    width: 49%;
+    float: right;
+    text-align: center;
+    height: 600px;
+    color: whitesmoke;
+}
+
+
+
+.navbar {
+    margin-top: -5pxpx;
+
+    background-size: cover;
+}
+
+.card-body a input {
+    background-color: rgb(166, 132, 197);
+    font-weight: bold;
+    border: none;
+    color: rgb(255, 231, 231);
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+    font-size: 70px;
+    margin: 10px;
+    color: black;
+    text-align: center;
+}
+
+.clearfix {
+    margin: 5px;
+}
+
+.am10 {
+    margin: 12px;
+    text-align: center;
+    width: 45%;
+    border-radius: 10px;
+    font-weight: bold;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.carousel-item img{
+    width: 400px;
+    height: 450px;
+    text-align: center;
+}
+.form-control{
+    border: 1px solid black;  
+}
+label{
+    color: black;
+    font-weight: bold;
+    font-size: 17px;
+}
+.am6 iframe{
+    border-radius: 30px;
+    margin-left: 10px;
+    width: 92%;
+}
+.btn1{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.mb-4{
+    color: black;
+}
+.pt-2{
+    color: black;
+}
